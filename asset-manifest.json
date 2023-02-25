@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.92ec3926.css",
+    "main.js": "/static/js/main.b380a5f2.js",
+    "static/media/carousel2.jpg": "/static/media/carousel2.945b9ce66f218468d63a.jpg",
+    "static/media/lounge2.jpg": "/static/media/lounge2.9e344d17020b5cd78c7b.jpg",
+    "static/media/lounge1.jpg": "/static/media/lounge1.b5d63812d1f2b8967688.jpg",
+    "static/media/carousel1.jpg": "/static/media/carousel1.14bda733801aa7d40689.jpg",
+    "static/media/background.jpg": "/static/media/background.94812b1c88303fd36cb1.jpg",
+    "static/media/carousel3.jpg": "/static/media/carousel3.56c9d87904cc2ecfa2a6.jpg",
+    "static/media/pinkgirl.png": "/static/media/pinkgirl.a92d8e3e77599b5e4e5e.png",
+    "static/media/image1.png": "/static/media/image1.00dee257f80110c83013.png",
+    "static/media/girlbra.png": "/static/media/girlbra.5ad24c6abcb35bb552f1.png",
+    "static/media/image2.png": "/static/media/image2.37e1b896ebd870438056.png",
+    "static/media/pricedown-bl.otf": "/static/media/pricedown-bl.6bea83af9fab92ca7c40.otf",
+    "static/media/Gotham-Medium.otf": "/static/media/Gotham-Medium.cfa2f4873c9cdda41f77.otf",
+    "static/media/Gotham-Light.otf": "/static/media/Gotham-Light.59aa40045d8df0b87a73.otf",
+    "static/media/whitebikini.png": "/static/media/whitebikini.a7fa65325ef69a83c9fd.png",
+    "static/media/Gotham-Regular.otf": "/static/media/Gotham-Regular.ec261687c39b5046869a.otf",
+    "static/media/logo.png": "/static/media/logo.08941b3b1c83df03c9ae.png",
+    "index.html": "/index.html",
+    "main.92ec3926.css.map": "/static/css/main.92ec3926.css.map",
+    "main.b380a5f2.js.map": "/static/js/main.b380a5f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92ec3926.css",
+    "static/js/main.b380a5f2.js"
+  ]
+}
